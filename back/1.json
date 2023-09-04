@@ -1,0 +1,44 @@
+{
+    "首页": {
+        "show": true,
+        "write": true,
+        "表单": {
+            "show": true,
+            "write": true,
+            "活动名称": {
+                "show": true,
+                "write": true
+            },
+            "活动区域": {
+                "show": true,
+                "write": true
+            },
+            "活动时间": {
+                "show": true,
+                "write": true
+            },
+            "即使配送": {
+                "show": true,
+                "write": true
+            },
+            "活动性质": {
+                "show": true,
+                "write": true
+            },
+            "活动形式": {
+                "show": true,
+                "write": true
+            }
+        },
+        "操作按钮": {
+            "立即创建": {
+                "show": true,
+                "write": true
+            },
+            "取消": {
+                "show": true,
+                "write": true
+            }
+        }
+    }
+}
