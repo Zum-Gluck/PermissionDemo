@@ -3,7 +3,7 @@ import store from '@/store'
 import { getToken, removeToken } from '@/utils/token'
 
 import router from '@/router'
-
+console.log(process.env)
 const instance = axios.create({
   baseURL: process.env.VUE_APP_BASE_URL, // url = base url + request url
   timeout: 5000 // request timeout
